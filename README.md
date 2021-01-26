@@ -1,1 +1,1 @@
-# Qrcode-one-step
+#ตัวอย่าง Code สำหรับการสร้าง Qrcode อย่างง่าย
